@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TugasPmob_Ayu</string>
+    <string name="action_settings">Settings</string>
+    <string name="lbl_formreg">Form Registration</string>
+    <string name="lbl_formlog">Form Login</string>
+    <string name="lbl_status">Status</string>
+    <string name="lbl_akun">Account</string>
+    <string name="label_username">Username</string>
+    <string name="label_enter_username">Enter Your Username</string>
+    <string name="label_first">First Name</string>
+    <string name="label_enter_first">Your First Name</string>
+    <string name="label_last">Last Name</string>
+    <string name="label_enter_last">Your Last Name</string>
+    <string name="label_email">Email Address</string>
+    <string name="label_enter_email">Enter Email Address</string>
+    <string name="lbl_pwd">Password</string>
+    <string name="lbl_enter_pwd">Enter your Password</string>
+    <string name="lbl_register">Register Account</string>
+    <string name="lbl_logout">Logout</string>
+    <string name="lbl_login">Login</string>
+    <string name="label_verilog">Already has account?! Login here</string>
+    <string name="label_verireg">Not have account?! Register here</string>
+    <string name="lbl_judul">Welcome to Informatika-UAD</string>
+    <string name="lbl_desk">A mobile Apps to sering student of Informatika-UAD</string>
+</resources>
